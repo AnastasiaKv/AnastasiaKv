@@ -4,7 +4,7 @@
 
 - Open to work, remote or Tambov.
 - Check my CV [here](https://cv.hexlet.io/resumes/896).
-- Projects [here](https://github.com/AanastasiaKv?tab=repositories).
+- Projects [here](https://github.com/AnastasiaKv?tab=repositories).
 - Contributions [here](https://github.com/pulls?q=is%3Apr+author%3AAnastasiaKv+archived%3Afalse+is%3Aclosed)
 ___
 
