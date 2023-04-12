@@ -1,6 +1,6 @@
 ### Hi there! I'm Anastasia Kvartalna 👋
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/anastasia_kvartalna)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anastasia.kvartalna@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasia.kvartalna@gmail.com)
 
 - Open to work, remote or Tambov.
 - Check my CV [here](https://cv.hexlet.io/resumes/896).
