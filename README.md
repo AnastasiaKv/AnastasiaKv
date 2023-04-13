@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasia.kvartalna@gmail.com)
 
 - Open to work, remote or Tambov.
-- Check my CV [here](https://cv.hexlet.io/resumes/896).
+- Check my CV: [PDF eng](https://github.com/AnastasiaKv/AnastasiaKv/blob/690d23286b4ed9f420ff0fc9ce4dde0cccb1583a/Anastasia-Kvartalna-CV-en.pdf) | [PDF rus](https://github.com/AnastasiaKv/AnastasiaKv/blob/690d23286b4ed9f420ff0fc9ce4dde0cccb1583a/Anastasia-Kvartalna-CV-ru.pdf) | [hh.ru](https://hh.ru/applicant/resumes/view?resume=402f1dc5ff038c6c270039ed1f787865706d39) | [Hexlet CV](https://cv.hexlet.io/resumes/896).
 - Projects [here](https://github.com/AnastasiaKv?tab=repositories).
 - Contributions [here](https://github.com/pulls?q=is%3Apr+author%3AAnastasiaKv+archived%3Afalse+is%3Aclosed)
 ___
