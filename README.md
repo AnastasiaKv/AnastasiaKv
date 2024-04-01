@@ -7,7 +7,7 @@
 - Contributions [here](https://github.com/pulls?q=is%3Apr+author%3AAnastasiaKv+archived%3Afalse+is%3Aclosed)
 ___
 
-### [![](https://github-readme-stats.vercel.app/api?username=AnastasiaKv&theme=calm&hide=,issues,)](https://github.com/AnastasiaKv)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=AnastasiaKv&theme=calm&hide=,issues,)](https://github.com/AnastasiaKv) -->
 
 
 <h3 align="left">Main Stack:</h3>
